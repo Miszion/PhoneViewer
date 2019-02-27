@@ -1,0 +1,12 @@
+
+
+
+
+Name: Huawei P20 Pro
+RAM: 6GB
+Processor: Cortex A73
+Screen Size: 6.1'
+Resolution: 1080 x 2240
+Weight: 6.34 Ounces
+Camera: 24MP Wide Angle
+Pixel Density: 408ppi

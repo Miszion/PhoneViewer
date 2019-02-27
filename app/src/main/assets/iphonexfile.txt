@@ -1,0 +1,12 @@
+
+
+
+
+Name: IPhone X
+RAM: 3GB
+Processor: A11 Bionic
+Screen Size: 5.8'
+Resolution: 2436 x 1125
+Weight: 6.14 Ounces
+Camera: 12MP Wide Angle
+Pixel Density: 458ppi

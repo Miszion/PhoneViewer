@@ -1,0 +1,12 @@
+
+
+
+
+Name: LG V40 ThinQ
+RAM: 6GB
+Processor: Qualcomm Snapdragon 845
+Screen Size: 6.4'
+Resolution: 3120 x 1440
+Weight: 5.96 Ounces
+Camera: 16MP Wide Angle
+Pixel Density: 538ppi

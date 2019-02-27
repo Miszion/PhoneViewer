@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/specs"
+        android:title="Check Specifications"/>
+    <item android:id="@+id/show"
+        android:title="Show Device"/>
+    <item android:id="@+id/web"
+        android:title="Go to website"/>
+</menu>
+
+
+
+

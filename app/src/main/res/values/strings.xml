@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PhoneViewer</string>
+    <string name="title_activity_stats_view">StatsView</string>
+    <string name="title_activity_specifications">Specifications</string>
+</resources>

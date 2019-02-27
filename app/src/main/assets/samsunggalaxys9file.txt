@@ -1,0 +1,12 @@
+
+
+
+
+Name: Samsung Galaxy S9
+RAM: 4GB
+Processor: Snapdragon 845
+Screen Size: 5.8'
+Resolution: 2960 x 1440
+Weight: 5.75 Ounces
+Camera: 12MP Wide Angle
+Pixel Density: 570ppi

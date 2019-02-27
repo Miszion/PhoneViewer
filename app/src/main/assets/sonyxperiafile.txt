@@ -1,0 +1,12 @@
+
+
+
+
+Name: Sony Xperia XZ3
+RAM: 3GB
+Processor: Qualcomm SDM845 Snapdragon
+Screen Size: 6.0
+Resolution: 1440 x 2880
+Weight: 6.81 Ounces
+Camera: 19MP
+Pixel Density: 537ppi

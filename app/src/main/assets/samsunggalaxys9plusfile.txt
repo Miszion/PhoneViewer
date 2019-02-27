@@ -1,0 +1,12 @@
+
+
+
+
+Name: Samsung Galaxy S9 Plus
+RAM: 6GB
+Processor: Snapdragon 845
+Screen Size: 6.2'
+Resolution: 2960 x 1440
+Weight: 6.66 Ounces
+Camera: 12MP Wide Angle
+Pixel Density: 529ppi

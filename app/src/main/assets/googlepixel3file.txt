@@ -1,0 +1,12 @@
+
+
+
+
+Name: Google Pixel 3
+RAM: 4GB
+Processor: Qualcomm Snapdragon 845
+Screen Size: 5.5'
+Resolution: 2160 x 1080
+Weight: 5.22 Ounces
+Camera: 12.2MP Wide Angle
+Pixel Density: 443ppi

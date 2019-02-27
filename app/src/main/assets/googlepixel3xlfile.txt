@@ -1,0 +1,12 @@
+
+
+
+
+Name: Google Pixel 3 XL
+RAM: 4GB
+Processor: Qualcomm SDM845 Snapdragon
+Screen Size: 6.3'
+Resolution: 1440 x 2960
+Weight: 6.49 Ounces
+Camera: 12MP Wide Angle
+Pixel Density: 523ppi
