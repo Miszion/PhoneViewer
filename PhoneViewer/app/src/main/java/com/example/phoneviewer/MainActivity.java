@@ -80,18 +80,6 @@ public class MainActivity extends AppCompatActivity {
         imageList.add(R.mipmap.huawei_round);
         imageList.add(R.mipmap.lg_round);
         imageList.add(R.mipmap.sony_round);
-//
-//        imageList.add(R.drawable.iphonex);
-//        imageList.add(R.drawable.iphonexs);
-//        imageList.add(R.drawable.iphonexsmax);
-//        imageList.add(R.drawable.googlepixel3);
-//        imageList.add(R.drawable.googlepixel3xl);
-//        imageList.add(R.drawable.samsunggalaxys9);
-//        imageList.add(R.drawable.samsunggalaxys9plus);
-//        imageList.add(R.drawable.huawei);
-//        imageList.add(R.drawable.lgv40);
-//        imageList.add(R.drawable.sony);
-
 
         ObjAdapter adapt = new ObjAdapter();
 

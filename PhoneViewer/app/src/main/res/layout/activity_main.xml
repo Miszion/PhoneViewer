@@ -12,20 +12,21 @@
     <ListView
         android:id="@+id/viewer"
         style="@style/Widget.AppCompat.Light.ListView.DropDown"
-        android:layout_width="395dp"
-        android:layout_height="715dp"
+        android:layout_width="394dp"
+        android:layout_height="610dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginBottom="32dp"
+        android:longClickable="true"
         android:scrollbars="vertical|none"
         android:visibility="visible"
-        android:longClickable="true"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.312"
         tools:background="@android:color/background_light">
 
     </ListView>
-
-
 
 
 </android.support.constraint.ConstraintLayout>
